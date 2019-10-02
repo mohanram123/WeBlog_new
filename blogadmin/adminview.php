@@ -53,7 +53,7 @@
               </a>
             </div>
           </div>
-          <div class="col-lg-3">
+          <!-- <div class="col-lg-3">
             <div class="panel panel-info">
               <div class="panel-heading">
                 <div class="row">
@@ -65,8 +65,8 @@
                     <p class="announcement-text"><strong>Editor's Choice</strong></p>
                   </div>
                 </div>
-              </div>
-              <a href="editors_choice_view.php">
+              </div> -->
+              <!-- <a href="editors_choice_view.php">
                 <div class="panel-footer announcement-bottom">
                   <div class="row">
                     <div class="col-xs-6">
@@ -104,7 +104,7 @@
                     </div>
                   </div>
                 </div>
-              </a>
+              </a> -->
             </div>
           </div>
         </div><!-- /.row -->

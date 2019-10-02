@@ -131,12 +131,5 @@
     <!-- JavaScript -->
     <script src="js/jquery-1.10.2.js"></script>
     <script src="js/bootstrap.js"></script>
-<footer class="footer footer-inverse">
-      <div class="container">
-        <div class="text-center">
-          <small>Blog Admin 2018 | Brought To You By <a href="http://code-projects.org/">Code-Projects</a></small>
-        </div>
-      </div>
-    </footer>
   </body>
 </html>
